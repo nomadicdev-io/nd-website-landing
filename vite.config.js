@@ -6,7 +6,7 @@ export default defineConfig({
         port: 9090
     },
     build: {
-        outDir: '../dist'
+        outDir: './dist'
     },  
     publicDir: 'src',  
 })
